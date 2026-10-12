@@ -7,8 +7,6 @@ A Machine Learning project that predicts the emotion expressed in a text sentenc
 **Try the application:** [Emotion Classification App][(https://emotion-classification-v5byadkc7rbvtl2nczrbnz.streamlit.app/)]
 
 
-> Replace `YOUR_STREAMLIT_APP_URL` with your actual deployed Streamlit application link.
-
 ## 📌 Project Overview
 
 Text Emotion Classification is an NLP-based Machine Learning project that analyzes textual input and predicts its associated emotion.
